@@ -3,5 +3,7 @@
 body {
   padding-top: 70px;
   position: relative;
-  background-image: url("https://cloud.githubusercontent.com/assets/8481204/5994386/bbf865e2-aa36-11e4-8c35-980952c10a26.jpg")
+  background-image: url("https://cloud.githubusercontent.com/assets/8481204/5994386/bbf865e2-aa36-11e4-8c35-980952c10a26.jpg");
+  background-size: 100% 100%;
+  background-repeat: none;
 }  
